@@ -2,8 +2,7 @@
 
 **[PLAY IT HERE (http://ncase.me/polygons)](http://ncase.me/polygons)**
 
-@some other message
----
+some other message
 
 This playable post is [public domain (CC0)](http://creativecommons.org/publicdomain/zero/1.0).
 
